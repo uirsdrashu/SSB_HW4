@@ -1,0 +1,52 @@
+.headline {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: #1E90FF;
+}
+
+.simple{
+  font-family: Helvetica;
+  font-weight: normal;
+}
+
+.taglist{
+  width: 35%;
+}
+
+body{
+  color: #3a3a3a;
+}
+
+.speed{
+  width: 40%;
+}
+
+table {
+  width: 100%;
+  border: 1px solid #3a3a3a;
+}
+
+caption {
+  text-align: center;
+}
+
+th, tr, td {
+text-align: center;
+border: 1px solid #3a3a3a;
+}
+
+img{
+  width:30%
+}
+
+span{
+  font-weight: bold;
+}
+
+.freepik {
+  color:#1E90FF;
+}
+
+.adobes {
+  color:#3a3a3a;
+}
